@@ -1,0 +1,15 @@
+com\gjj\pojo\ClazzOption.class
+com\gjj\pojo\JobOption.class
+com\gjj\pojo\LoginInfo.class
+com\gjj\pojo\Student.class
+com\gjj\pojo\ClazzQueryParam.class
+com\gjj\pojo\Dept.class
+com\gjj\pojo\Emp.class
+com\gjj\pojo\OperateLog.class
+com\gjj\pojo\EmpQueryParam.class
+com\gjj\pojo\Clazz.class
+com\gjj\pojo\EmpLog.class
+com\gjj\pojo\Result.class
+com\gjj\pojo\PageResult.class
+com\gjj\pojo\EmpExpr.class
+com\gjj\pojo\StdQueryParam.class
